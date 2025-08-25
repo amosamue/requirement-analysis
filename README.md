@@ -19,3 +19,33 @@ Requirement Analysis is crucial in the SDLC for several reasons:
 - **Cost and Time Estimation:** Facilitates accurate estimation of project cost, resources, and timeline.
 
 - **Quality Assurance:** Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities to ensure the software meets stakeholder expectations:
+
+1. **Requirement Gathering 🗂️**
+   - **Interviews:** Conduct interviews with stakeholders to gather detailed information about their needs.
+   - **Surveys/Questionnaires:** Collect requirements from a larger audience.
+   - **Workshops:** Discuss and gather requirements in collaborative sessions.
+   - **Observation:** Observe end-users in their working environment to understand their needs.
+   - **Document Analysis:** Review existing documentation and systems to understand current functionalities.
+
+2. **Requirement Elicitation ✍️**
+   - **Brainstorming:** Generate ideas and gather requirements in creative sessions.
+   - **Focus Groups:** Hold discussions with selected stakeholders to gather detailed requirements.
+   - **Prototyping:** Create prototypes to help stakeholders visualize the system and refine their requirements.
+
+3. **Requirement Documentation 📚**
+   - **Requirement Specification Document:** Detail all functional and non-functional requirements.
+   - **User Stories:** Describe functionalities from the user’s perspective.
+   - **Use Cases:** Create diagrams showing interactions between users and the system.
+
+4. **Requirement Analysis and Modeling 📊**
+   - **Requirement Prioritization:** Rank requirements based on importance and impact.
+   - **Feasibility Analysis:** Assess technical, financial, and time feasibility.
+   - **Modeling:** Use models like data flow diagrams or entity-relationship diagrams to visualize requirements.
+
+5. **Requirement Validation ✅**
+   - **Review and Approval:** Ensure documented requirements are accurate and complete.
+   - **Acceptance Criteria:** Define clear conditions for each requirement.
+   - **Traceability:** Use matrices to ensure all requirements are addressed during development and testing.
