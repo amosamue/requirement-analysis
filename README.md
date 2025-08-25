@@ -87,3 +87,4 @@ Use Case Diagrams provide a visual representation of interactions between users 
 
 **Example Use Case Diagram for Booking Management System:**
 ![Booking System Use Case](alx-booking-uc.png)
+
