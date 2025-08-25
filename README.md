@@ -72,49 +72,18 @@ Non-functional requirements describe **how the system should perform**. They foc
 - **Scalability:** Ability to scale horizontally to accommodate increased traffic.
 - **Usability:** Intuitive UI/UX, making the application easy to navigate.
 - **Reliability:** Uptime of 99.9% with quick recovery from failures.
-## Types of Requirements
+## Use Case Diagrams 📊
 
-In Requirement Analysis, requirements are classified into **Functional** and **Non-functional** requirements.
+Use Case Diagrams provide a visual representation of interactions between users (actors) and the system.
 
-### Functional Requirements ⚙️
-Functional requirements describe **what the system should do**. They define the behavior, features, and operations of the system.
+**What are Use Case Diagrams?**
+- Show how different users interact with the system to achieve specific goals (use cases).
+- Help identify, organize, and communicate system requirements clearly.
 
-**Examples for the Booking Management System:**
-- **Search Properties:** Users can search for properties by location, price, and availability.
-- **User Registration:** New users can create accounts with personal details and login credentials.
-- **Property Listings:** Display property details including images, descriptions, and prices.
-- **Booking System:** Users can book properties, view booking details, and manage their bookings.
-- **User Authentication:** Secure login and registration process for users.
+**Benefits:**
+- Clear visualization of system functionalities.
+- Easier communication between stakeholders and development team.
+- Helps in identifying all possible user interactions.
 
-### Non-functional Requirements 🛡️
-Non-functional requirements describe **how the system should perform**. They focus on system attributes like performance, security, usability, and reliability.
-
-**Examples for the Booking Management System:**
-- **Performance:** Pages should load within 2 seconds and handle up to 1000 concurrent users.
-- **Security:** Data encryption, secure login, and protection against vulnerabilities.
-- **Scalability:** Ability to scale horizontally to accommodate increased traffic.
-- **Usability:** Intuitive UI/UX, making the application easy to navigate.
-- **Reliability:** Uptime of 99.9% with quick recovery from failures.
-## Types of Requirements
-
-In Requirement Analysis, requirements are classified into **Functional** and **Non-functional** requirements.
-
-### Functional Requirements ⚙️
-Functional requirements describe **what the system should do**. They define the behavior, features, and operations of the system.
-
-**Examples for the Booking Management System:**
-- **Search Properties:** Users can search for properties by location, price, and availability.
-- **User Registration:** New users can create accounts with personal details and login credentials.
-- **Property Listings:** Display property details including images, descriptions, and prices.
-- **Booking System:** Users can book properties, view booking details, and manage their bookings.
-- **User Authentication:** Secure login and registration process for users.
-
-### Non-functional Requirements 🛡️
-Non-functional requirements describe **how the system should perform**. They focus on system attributes like performance, security, usability, and reliability.
-
-**Examples for the Booking Management System:**
-- **Performance:** Pages should load within 2 seconds and handle up to 1000 concurrent users.
-- **Security:** Data encryption, secure login, and protection against vulnerabilities.
-- **Scalability:** Ability to scale horizontally to accommodate increased traffic.
-- **Usability:** Intuitive UI/UX, making the application easy to navigate.
-- **Reliability:** Uptime of 99.9% with quick recovery from failures.
+**Example Use Case Diagram for Booking Management System:**
+![Booking System Use Case](alx-booking-uc.png)
